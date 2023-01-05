@@ -1,0 +1,342 @@
+@media only screen and (max-width: 600px) and (min-width: 320px) { 
+
+    header {
+    text-align: center;
+    padding: 10px 0 0;
+}
+
+ul.navigation-header {
+    text-align: center !important;
+    margin-top: 10px !important;
+}
+
+section.page-title {
+    padding: 17px 0;
+    text-align: center;
+}
+div#dvFullAmount label {
+    display: block;
+    padding: 10px 0;
+}
+section.page-title h1 {
+    font-size: 16px;
+    margin-top: 0;
+    font-weight: 600;
+}
+
+section.content-seq {
+    padding: 20px 0 20px 0;
+}
+
+.container {
+    padding: 0 15px;
+}
+
+.form-sec ul li input[type=text], .form-sec ul li input[type=email], .form-sec ul li input[type=tel], .form-sec ul li input[type=password], .form-sec ul li select, .form-sec ul li textarea {
+    padding: 10px 7px;
+    font-size: 12px;
+}
+.step-1-form ul li{width:100%}
+
+.form-sec ul li {
+    margin-bottom: 7px;
+}
+
+.submit-btn input[type="submit"] {
+    width: 100%;
+    padding: 12px 10px;
+    margin: 0;
+}
+
+.submit-btn {
+    width: 100%;
+}
+
+.col-md-12.discount-ordr-summ .row>.col-md-6 {
+    padding: 0 10px;
+}
+section.page-title p {
+    font-size: 12px;
+    margin: 0;
+}
+
+section.steps-seq {
+    padding: 13px 0;
+}
+
+section.content-seq h4 {
+    margin: 0 0 10px 0;
+    font-size: 30px;
+}
+
+.phone-code {
+    width: 24% !important;
+}
+
+.form-sec ul li textarea {
+    min-height: 90px;
+}
+
+.agree-check {
+    font-size: 9px;
+}
+
+li.already-account-li.last {
+    font-size: 13px;
+    text-align: center;
+    display: block !important;
+    padding: 0 0 10px 0;
+}
+
+.sidebar {
+    padding: 20px 8px 0;
+    border: 0px none;
+    margin: 0;
+    border-top: #ccc 1px solid;
+    width: 100%;
+}
+
+.sidebar h2 {
+    font-size: 23px;
+    margin: 0 0px 0 0;
+    text-align: center;
+}
+
+.sidebar h2 span {
+    font-size: 24px;
+    display: inline;
+}
+
+.sidebar ul li i {width: 30px;height: 30px;font-size: 14px;padding-top: 8px;}
+
+.sidebar ul li i.fa.fa-phone {
+    padding-top: 9px;
+}
+
+.sidebar ul {
+    margin: 11px 0 0 0;
+}
+
+.sidebar ul li {
+    padding-left: 37px;
+    padding-top: 2px;
+    margin-bottom: 22px;
+    width: 48%;
+    display: inline-block;
+    font-size: 12px;
+}
+
+footer {
+    font-size: 11px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.sidebar ul li span {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+#tabs-pkg>ul>li {
+    font-size: 12px;
+    margin: 0;
+    margin-bottom: 8px;
+    width: 48%;
+    display: inline-block;
+}
+
+#tabs-pkg>ul>li>a {
+    padding: 4px 29px;
+    min-height: 32px;
+}
+
+#tabs-pkg>ul {
+    margin: 0 0 12px 0;
+}
+.packages-col >div>div>div label span {
+    width: 96%;
+}
+.seq_view_all_pkg {
+    margin: 0;
+}
+
+.pkg_desc_view {
+    padding: 10px 8px 20px;
+}
+div.file_upload {
+    padding: 10px 0;
+    width: 105px;
+}
+.order_sum_col.row h3 {
+    font-size: 13px;
+    margin-bottom: 14px;
+}
+
+.order_sum_col.row ul li {
+    margin-bottom: 7px;
+}
+
+.order_sum_col.row ul:before {
+    left: 46%;
+}
+
+.order_sum_col.row>.col-md-6 h5, .order_sum_col.row>.col-md-6+.col-md-3 h5, .order_sum_col.row>.col-md-6+.col-md-3+.col-md-3 h5 {
+    border: #e2e2e2 1px solid;
+    /* margin-top: 10px; */
+    font-weight: 600;
+    font-size: 15px;
+    text-align: center;
+    background: #f1f1f1;
+    padding: 8px 0;
+}
+
+.order_sum_price_list.bg_gray_ordr_summ.border-left-gray {
+    padding: 13px 8px;
+    height: 270px;
+    font-size: 16px;
+    height: auto;
+}
+
+.col-md-12.discount-ordr-summ {
+    padding: 14px 3px;
+}
+
+.col-md-12.discount-ordr-summ h5 {
+    margin-bottom: 7px;
+    font-weight: 800;
+}
+
+.col-md-12.discount-ordr-summ input[type="text"] {
+    width: 198px;
+}
+
+.discount-ordr-summ input[type="submit"], .discount-ordr-summ input[type="button"] {
+    padding: 12px 16px;
+}
+
+.ordr-sum-sub-total {
+    width: 100%;
+    padding: 17px 10px;
+    background: #3c3c3c;
+    color: #fff;
+}
+
+.select_paymnet_option.row {
+    margin-top: 12px;
+}
+
+.select_paymnet_option.row h2 {
+    font-size: 18px;
+    text-align: center;
+    margin: 0 0 10px 0;
+}
+
+.payment-selection {
+    padding: 10px 8px;
+}
+.phoneInfo ul li a {font-size: 14px;padding: 12px;}
+
+.phoneInfo ul li+li {
+    padding: 11px;
+    font-size: 12px;
+    width: 100%;
+}
+
+.phoneInfo ul li {
+    margin: 6px 0 0px 0 !important;
+    width: 100%;
+    text-align: center;
+}
+
+
+.payment-selection ul li input[type="radio"] {
+    margin: 4px 8px 0 0;
+}
+.payment-selection ul li label {
+    font-size: 12px;
+    padding: 6px 0;
+    margin: 0;
+}
+
+.payment-selection ul li input[type="radio"]:before {height: 20px;content: "";/* background: #000; */width: 20px;display: block;z-index: -3;border-radius: 100%;}
+
+.payment-selection ul li span+span {
+    display: block;
+    margin: 5px 0 0;
+}
+
+.payment-selection ul li {border-bottom: #ccc 1px dotted;padding: 0 7px;}
+
+
+.payment-selection ul li+li span{
+    display: inline-block;
+}
+
+
+.payment-selection ul li span {
+    width: 80%;
+}
+
+li.dsc-price.last {
+    font-size: 12px !important;
+}
+
+.order-summery-submit {
+    text-align: center;
+    margin: 11px 0;
+}
+.col-md-12.discount-ordr-summ .row {
+    margin: 0;
+}
+li.li-col-6 {
+    width: 100%;
+}
+li.li-col-3.pull-left, li.li-col-9.pull-left {
+    float: none !important;
+    margin-left: 0;
+    margin-bottom: 30px;
+}
+.li-col-3, .li-col-9 {width: 100% !important;clear: both !important;}
+
+.checkbox-fieldset label {
+    width: 35%;
+    margin: 0 26px 8px 0 !important;
+}
+.checkbox-fieldset label input[type="checkbox"] {
+    top: 0px;
+}
+}
+
+@media only screen and (max-width: 991px){
+    .sidebar{width: 100%;border-left:0;border-top:1px solid #dcdcdc;padding-left: 0px;text-align: center; margin-top: 40px;padding-top:40px;margin-left: 0px}
+    .sidebar ul li{display: inline-block;width: 36%;text-align: left;}
+}
+@media only screen and (max-width: 767px){
+    .col-md-12.form-sec.step-1-form{
+        margin-top: 60px;
+    }
+    section.content-seq{
+        padding: 00px 0 10px 0;
+    }
+}
+@media only screen and (max-width: 660px){
+    section.steps-seq ul li:before{
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    section.steps-seq ul li{
+        width: 25%;
+    }
+    section.steps-seq ul li:after{
+        top: 26px;
+    }
+}
+@media only screen and (max-width: 450px){
+    #progressbar h4{
+        font-size: 14px;
+    }
+    .sidebar ul li{
+        width: 45%;
+    }
+}
